@@ -8,8 +8,8 @@ public class Seller {
       String item = "Item";
     }
   int item_id{
-      void delete_item;
-    void change_quantity;
-        void change_price;
+      void delete_item();
+    void change_quantity();
+        void change_price();
     }
 }
